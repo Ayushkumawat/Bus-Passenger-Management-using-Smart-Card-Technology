@@ -23,4 +23,4 @@ every person have their own Qr which can only be used 1 time in morning and 1 ti
 
 3. os: To save and verify the excel-file in local storage, (pre-installed)
 
-4. qrcode: to generate QR codes 
+4. qrcode: to generate QR codes,
