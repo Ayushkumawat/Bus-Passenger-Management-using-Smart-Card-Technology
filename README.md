@@ -17,6 +17,8 @@ It is a GUI based programme which will be used to provide QR code to students/co
 
 ![image](https://user-images.githubusercontent.com/76219349/216091126-350acf8c-b302-49ff-9db7-3477003c38aa.png)
 
+![image](https://user-images.githubusercontent.com/76219349/216109853-35cdce84-358f-4e01-a4b1-25fd7608d07b.png)
+
 2. Scanner.py
 This module will need a camera and a small display as requirements to scan and display the QR code and make the process easy. Model will be deployed in every college-bus this may initially include some costing for the product but it will reduce the labour cost of checking the passes manually which is a slow process and also reduce university loss because of students travelling without a valid bus-pass, model will contain the respective excel-sheet of the bus and check for the person using its QR, every person have their own Qr which can only be used 1 time in morning and 1 time in evening so that it can't be used by any other kid, this also provides the security that the student is boarding the same bus to go home. The system plays audio "Okay" if the QR code scanned is valid and "Access-denied" if the QR is not valid, this makes the model more user interactive and easy to identify intruder.
 
