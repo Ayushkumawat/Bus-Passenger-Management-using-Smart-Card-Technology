@@ -13,7 +13,7 @@ It is a GUI based programme which will be used to provide QR code to students/co
 
 ![image](https://user-images.githubusercontent.com/76219349/216086790-afd490dd-6c4a-4fec-ae3f-8641c6e13a38.png)
 
-![image](https://user-images.githubusercontent.com/76219349/216099372-9f4f242d-895d-4a27-a5bd-0284b6920617.png)
+![image](https://user-images.githubusercontent.com/76219349/216101991-84be243e-e121-4c88-aa6a-73b9a94ec1a5.png)
 
 ![image](https://user-images.githubusercontent.com/76219349/216091126-350acf8c-b302-49ff-9db7-3477003c38aa.png)
 
